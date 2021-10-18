@@ -1,4 +1,3 @@
-import { Grid } from '@mui/material';
 import { makeStyles } from '@mui/styles';
 import { Box } from '@mui/system';
 import axios from 'axios';
