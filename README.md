@@ -1,1 +1,1 @@
-https://mfilix-movie-blog.netlify.app/
+https://image-search-gallery-bymustafa.netlify.app/
